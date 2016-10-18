@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+  <Document>
+    <name>GPS device</name>
+    <snippet>Created út říj 18 14:48:02 2016</snippet>
+    <LookAt>
+      <longitude>16.533088</longitude>
+      <latitude>49.194595</latitude>
+      <range>1968.027955</range>
+    </LookAt>
+    <!-- Normal waypoint style -->
+    <Style id="waypoint_n">
+      <IconStyle>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/pal4/icon61.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <!-- Highlighted waypoint style -->
+    <Style id="waypoint_h">
+      <IconStyle>
+        <scale>1.2</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/pal4/icon61.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <StyleMap id="waypoint">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#waypoint_n</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#waypoint_h</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>Waypoints</name>
+      <Placemark>
+        <name>Socha Píseň země</name>
+        <styleUrl>#waypoint</styleUrl>
+        <description>Socha Píseň země (Sedící žena) z roku 1988. Autor M. Axman. Jedná se o repliku originálu umístěnou na Nové scěně Národního divadla v Praze.</description>
+        <Point>
+          <coordinates>16.529038,49.191245,400.27</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Vodojem</name>
+        <styleUrl>#waypoint</styleUrl>
+        <description>Výjimečná stavba, návrh olomouckého architekta Tomáše Černouška z roku 1969.</description>
+        <Point>
+          <coordinates>16.526649,49.192082,407.72</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Dům Bellova 15 - 25</name>
+        <styleUrl>#waypoint</styleUrl>
+        <description>Nejvýše položený panelový dům na území města Brna.</description>
+        <Point>
+          <coordinates>16.527804,49.191896,402.67</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Socha Slunce a člověk</name>
+        <styleUrl>#waypoint</styleUrl>
+        <description>Socha Slunce a člověk z roku 1986, autor Zdeněk Tomáš Makovský. V oválu představujícím slunce jsou umístěny plastiky staré a mladé tváře, které připomínají fáze lidského života.</description>
+        <Point>
+          <coordinates>16.529457,49.191774,396.91</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sousoší Hudba</name>
+        <styleUrl>#waypoint</styleUrl>
+        <description>Sousoší Hudba z roku 1982, autorka Sylva Lacinová.</description>
+        <Point>
+          <coordinates>16.533965,49.196764,358.45</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kašna</name>
+        <styleUrl>#waypoint</styleUrl>
+        <description>Kašna v areálu zdravotního střediska, umístěna v roce 1979, autor umělecký kovář Ivan Blažek.</description>
+        <Point>
+          <coordinates>16.533810,49.197356,357.49</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Grand Prix</name>
+        <styleUrl>#waypoint</styleUrl>
+        <description>Dům s nástavbou bývalé kavárny Grand Prix. Tato atypická dvoupodlažní nástavba z ocelové konstrukce je zvukově izolovaná od bytového domu technickým mezipodlažím. Jedná se o výjimenou stavbu v rámci celé republiky.</description>
+        <Point>
+          <coordinates>16.535556,49.196927,360.14</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Socha Rytmy</name>
+        <styleUrl>#waypoint</styleUrl>
+        <description>Socha Rytmy z roku 1986, autor Jiří Sobotka.</description>
+        <Point>
+          <coordinates>16.540785,49.196124,347.16</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sluneční hodiny</name>
+        <styleUrl>#waypoint</styleUrl>
+        <description>Sluneční hodiny Alfréda Habrmanna.</description>
+        <Point>
+          <coordinates>16.539990,49.195057,336.10</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hudba kosmu</name>
+        <styleUrl>#waypoint</styleUrl>
+        <description>Hudba kosmu (Kosmický věk), autorka Sylva Lacinová.</description>
+        <Point>
+          <coordinates>16.540350,49.195325,330.10</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Umělecké mříže</name>
+        <styleUrl>#waypoint</styleUrl>
+        <description>Železné umělecké mříže v podchodu Lipsko, autor Ivan Blažek. Dnes poškozené, stejná umělecká mříž byla umístěna i u zdravotního střediska.</description>
+        <Point>
+          <coordinates>16.539480,49.194760,340.67</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Úřad městské části Brno-Kohoutovice</name>
+        <styleUrl>#waypoint</styleUrl>
+        <description>Původně škola postavená v roce 1886. Na budově je umístěna pamětní deska obětem 1. a 2. světové války.</description>
+        <Point>
+          <coordinates>16.535586,49.193155,354.37</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kaple Svaté rodiny</name>
+        <styleUrl>#waypoint</styleUrl>
+        <description>Výstavba kaple započala v roce 1903 a vysvěcení se dočkala 4. října 1908.</description>
+        <Point>
+          <coordinates>16.535149,49.193121,357.37</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Pomník letce Viktora Sergejeviče Kašutina</name>
+        <styleUrl>#waypoint</styleUrl>
+        <description>Pomník navrhl prof. Miloš Axman a realizace proběhla v roce 1973 pod vedením Ing. arch. Kočího. Pomník se nachází v katastru MČ Žebětín v oboře Holedná, je však těsně spjat s historií Kohoutovic.</description>
+        <Point>
+          <coordinates>16.524262,49.198197,310.15</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Pomník Zdeňka Chalabaly</name>
+        <styleUrl>#waypoint</styleUrl>
+        <description>Pomník připomíná Zdeňka Chalabalu, dirigenta, hudebního pedagoga, působil jako šéf opery Státního divadla v Brně. Pomník byl umístěn v roce 1979, autor František Navrátil. Název Chalabalova nese i přilehlá ulice a základní škola, před kterou je pomník umístěn.</description>
+        <Point>
+          <coordinates>16.541914,49.193000,341.63</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Pomník Bohuslava Martinů</name>
+        <styleUrl>#waypoint</styleUrl>
+        <description>Pomník připomíná Bohuslava Martinů, hudebního skladatele. Pomník byl umístěn v roce 1983, autor František Navrátil.</description>
+        <Point>
+          <coordinates>16.529051,49.190994,400.99</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>
