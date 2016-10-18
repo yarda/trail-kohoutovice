@@ -12,7 +12,7 @@
     <Style id="waypoint_n">
       <IconStyle>
         <Icon>
-          <href>http://maps.google.com/mapfiles/kml/pal4/icon61.png</href>
+          <href>http://maps.google.com/mapfiles/kml/pal2/icon13.png</href>
         </Icon>
       </IconStyle>
     </Style>
@@ -21,7 +21,7 @@
       <IconStyle>
         <scale>1.2</scale>
         <Icon>
-          <href>http://maps.google.com/mapfiles/kml/pal4/icon61.png</href>
+          <href>http://maps.google.com/mapfiles/kml/pal2/icon13.png</href>
         </Icon>
       </IconStyle>
     </Style>
